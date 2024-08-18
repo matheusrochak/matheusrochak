@@ -18,10 +18,10 @@ Estou em busca de oportunidades para aplicar meu conhecimento em projetos reais 
 ## 🖥️ Social Media 
 
 <div>
-  <img href="https://discord.com/channels/@matheus_rk " src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  <img href="https://api.whatsapp.com/send?phone=21971774925 " src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  <img href="https://www.instagram.com/matheus_rk/ " src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  <img href="https://www.linkedin.com/in/matheus-silva-rocha-rj/ " src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ <a href="https://discord.com/channels/@matheus_rk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+ <a href="https://api.whatsapp.com/send?phone=21971774925 " target="_blank"> <img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+ <a href="https://www.instagram.com/matheus_rk/ " target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.linkedin.com/in/matheus-silva-rocha-rj/ "  target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </div>
 
 ## 👨‍💻 Hard Skills 
