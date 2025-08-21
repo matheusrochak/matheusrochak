@@ -7,7 +7,7 @@ Atualmente, estudo **React/Node**, **Python** e **RAG** aplicado a operações (
 
 **Em destaque →**
 - [Chatbot WhatsApp para clínicas] — triagem, agendamento e lembretes (n8n + LLM + DB vetorial). (Em construção)
-- [Sistema de Pedido No code] <a href="https://v0-web-order-system-eight.vercel.app/" target="_blank">  (link) >  — consultas, relatórios e recomendações sobre PDFs/BD.
+- [Sistema de Pedido No code] <a href="https://v0-web-order-system-eight.vercel.app/" target="_blank" (link)/>  — consultas, relatórios e recomendações sobre PDFs/BD.
 - [LojaWeb](link) — CRUD de vendas (TypeScript, API + front) com Docker e CI.
 - [Chat TCP em Python](link) — sockets, mensagens e autenticação básica.
 
@@ -16,19 +16,7 @@ Atualmente, estudo **React/Node**, **Python** e **RAG** aplicado a operações (
 **Front:** React (ou Next.js) · HTML/CSS  
 **Back:** Node.js/Express · (Django – em construção)  
 **Dados:** PostgreSQL · MongoDB  
-**DevOps:** Docker · GitHub Actions · (AWS – em construção)
-
-Olá! 👋
-
-Sou um Desenvolvedor de Software em início de carreira, com muita vontade de aprender e crescer na área de tecnologia. Atualmente, estou focado em melhorar minhas habilidades em:
-
-- **Linguagens:** JavaScript, Python, HTML/CSS, Node.js
-- **Frameworks:** React, Django
-- **Ferramentas:** Git, VSCode
-- **Banco de Dados:** PostgreSQL, MongoDB, MySQL
-- **DevOps:** Docker, AWS
-
-Estou em busca de oportunidades para aplicar meu conhecimento em projetos reais e contribuir para o sucesso de uma equipe. Além disso, gosto de estudar novas tecnologias e participar de meetups e hackathons.
+**DevOps:** Docker · GitHub Actions · (AWS – em construção) 
 </div>
 
 ## 🖥️ Social Media 
