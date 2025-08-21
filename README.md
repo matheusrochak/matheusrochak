@@ -7,7 +7,7 @@ Atualmente, estudo **React/Node**, **Python** e **RAG** aplicado a operações (
 
 **Em destaque →**
 - [Chatbot WhatsApp para clínicas] — triagem, agendamento e lembretes (n8n + LLM + DB vetorial). (Em construção)
-- [RAG no estoque da MFD](link) — consultas, relatórios e recomendações sobre PDFs/BD.
+- [Sistema de Pedido Nocode]<a href="https://v0-web-order-system-eight.vercel.app/" target="_blank">() — consultas, relatórios e recomendações sobre PDFs/BD.
 - [LojaWeb](link) — CRUD de vendas (TypeScript, API + front) com Docker e CI.
 - [Chat TCP em Python](link) — sockets, mensagens e autenticação básica.
 
