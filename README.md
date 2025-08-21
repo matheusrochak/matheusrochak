@@ -23,7 +23,7 @@ Atualmente, estudo **React/Node**, **Python** e **RAG** aplicado a operações (
 Estágio/Dev Júnior em **Full-stack** ou **Back-end**, com espaço para evoluir em IA aplicada e integrações.
 
 ## Contato
-[LinkedIn](https://www.linkedin.com/in/devmatheusrocha/) · [Email](mailto:matheus_rochak@live.com) · [Instagram]((https://www.instagram.com/matheus_rk/))
+[LinkedIn](https://www.linkedin.com/in/devmatheusrocha/) · [Email](mailto:matheus_rochak@live.com) · [Instagram](https://www.instagram.com/matheus_rk/))
 ## 👨‍💻 Hard Skills 
 
 <div style="display: inline_block"><br> 
