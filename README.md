@@ -1,7 +1,23 @@
 
-## 🖥️ Matheus Rocha    🇧🇷
+## 🖥️ Matheus Rocha · Desenvolvedor de Software  🇧🇷
 
 <div>
+Construo soluções web e integrações com IA focadas em **automação de atendimento** e **dados para negócios**.  
+Atualmente, estudo **React/Node**, **Python** e **RAG** aplicado a operações (B2B e Atendimento automatizado).
+
+**Em destaque →**
+- [Chatbot WhatsApp para clínicas] — triagem, agendamento e lembretes (n8n + LLM + DB vetorial). (Em construção)
+- [RAG no estoque da MFD](link) — consultas, relatórios e recomendações sobre PDFs/BD.
+- [LojaWeb](link) — CRUD de vendas (TypeScript, API + front) com Docker e CI.
+- [Chat TCP em Python](link) — sockets, mensagens e autenticação básica.
+
+## Stack principal
+**Linguagens:** JavaScript/TypeScript, Python  
+**Front:** React (ou Next.js) · HTML/CSS  
+**Back:** Node.js/Express · (Django – em construção)  
+**Dados:** PostgreSQL · MongoDB  
+**DevOps:** Docker · GitHub Actions · (AWS – em construção)
+
 Olá! 👋
 
 Sou um Desenvolvedor de Software em início de carreira, com muita vontade de aprender e crescer na área de tecnologia. Atualmente, estou focado em melhorar minhas habilidades em:
