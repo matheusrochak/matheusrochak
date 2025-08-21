@@ -8,7 +8,7 @@ Atualmente, estudo **React/Node**, **Python** e **RAG** aplicado a operações (
 **Em destaque →**
 - [Chatbot WhatsApp para clínicas] — triagem, agendamento e lembretes (n8n + LLM + DB vetorial). (Em construção)
 - [Sistema de Pedido Nocode](https://v0-web-order-system-eight.vercel.app/) — consultas, relatórios e recomendações sobre PDFs/BD.
-- [LojaWeb] (https://github.com/matheusrochak/LojaWebMatheusRocha) — CRUD de vendas (TypeScript, API + front) com Docker e CI.
+- [LojaWeb](https://github.com/matheusrochak/LojaWebMatheusRocha) — CRUD de vendas (TypeScript, API + front) com Docker e CI.
 - [Reconhecimento de Dígitos com RNA Perceptron de Monocamada](https://github.com/matheusrochak/rna_perceptron) — Rede Neural Artificial para classificar dígitos **0** e **1** a partir de uma matriz de pixels 4x4.
 
 ## Stack principal
