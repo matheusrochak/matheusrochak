@@ -7,9 +7,9 @@ Atualmente, estudo **React/Node**, **Python** e **RAG** aplicado a operações (
 
 **Em destaque →**
 - [Chatbot WhatsApp para clínicas] — triagem, agendamento e lembretes (n8n + LLM + DB vetorial). (Em construção)
-- [Sistema de Pedido No code] <a href="https://v0-web-order-system-eight.vercel.app/" target="_blank" (link) >  — consultas, relatórios e recomendações sobre PDFs/BD. />
-- [LojaWeb](link) — CRUD de vendas (TypeScript, API + front) com Docker e CI.
-- [Chat TCP em Python](link) — sockets, mensagens e autenticação básica.
+- [Sistema de Pedido Nocode](https://v0-web-order-system-eight.vercel.app/) — consultas, relatórios e recomendações sobre PDFs/BD.
+- [LojaWeb] (https://github.com/matheusrochak/LojaWebMatheusRocha) — CRUD de vendas (TypeScript, API + front) com Docker e CI.
+- [Reconhecimento de Dígitos com RNA Perceptron de Monocamada]((https://github.com/matheusrochak/rna_perceptron)) — Rede Neural Artificial para classificar dígitos **0** e **1** a partir de uma matriz de pixels 4x4.
 
 ## Stack principal
 **Linguagens:** JavaScript/TypeScript, Python  
@@ -19,15 +19,11 @@ Atualmente, estudo **React/Node**, **Python** e **RAG** aplicado a operações (
 **DevOps:** Docker · GitHub Actions · (AWS – em construção) 
 </div>
 
-## 🖥️ Social Media 
+## O que estou buscando
+Estágio/Dev Júnior em **Full-stack** ou **Back-end**, com espaço para evoluir em IA aplicada e integrações.
 
-<div>
- <a href="https://discord.com/channels/@matheus_rk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
- <a href="https://api.whatsapp.com/send?phone=21971774925 " target="_blank"> <img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
- <a href="https://www.instagram.com/matheus_rk/ " target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-<a href="https://www.linkedin.com/in/matheus-silva-rocha-rj/ "  target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</div>
-
+## Contato
+[LinkedIn](https://www.linkedin.com/in/devmatheusrocha/) · [Email](mailto:matheus_rochak@live.com) · [Instagram]((https://www.instagram.com/matheus_rk/))
 ## 👨‍💻 Hard Skills 
 
 <div style="display: inline_block"><br> 
